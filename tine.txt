@@ -1,0 +1,62 @@
+inevimbo Musingadi_
+Mabvuku, Harare, Zimbabwe | tinevimbo@type1ai.co | LinkedIn | GitHub
+
+EDUCATION
+Harare Institute of Technology | Harare, Zimbabwe
+Bachelor of Technology in Computer Science |start date August 2023, Expected May 2029
+Relevant Coursework: Machine Learning, Data Structures & Algorithms, Linear Algebra, Probability & Statistics,Discrete Math,
+Mabvuku High School | Harare, Zimbabwe | Graduated January 2024
+Awards: 4th Place International Science & Engineering Fair (ISEF) 2023, Overall Best Student 2022-23, Best in Physics (3 consecutive years)
+
+EXPERIENCE
+Data Science & AI Engineering Intern | Educait | New York, USA & Harare, Zimbabwe | Jan 2024 – Jun 2024
+Helped deployed AI applications using OpenAI, Anthropic, and Google-GenAI APIs to 300+ students across 10 institutions
+Built production RAG systems with ChromaDB and MongoDB, improving query response accuracy by 40%.
+Math & Programming Instructor | Mabvuku High School | Harare, Zimbabwe | Jan 2024 – Jul 2024
+Taught A-level Mathematics, Physics, and Statistics to 80+ students, achieving 95% pass rate
+Led after-school programming clubs, teaching Python and Machine Learning to 10 students
+Mentored students who won gold medals at national science fairs and represented Zimbabwe internationally
+
+PROJECTS
+Vector: AI-Powered Data Science Agent | Aug - October 2024GitHub
+Developed a self-correcting, neuro-symbolic data science agent that reasons across uploaded datasets, then performs complex data analysis, cleaning, transformations, and modeling by generating, executing, and iteratively debugging Python code and tool use.
+Engineered a secure, sandboxed execution environment using Docker, isolating all code execution to mitigate security risks and ensure the integrity of the host system.
+Designed and built an asynchronous backend using FastAPI and WebSockets to manage real-time, bidirectional communication between the frontend, the AI agent, and the sandboxed compute engine.
+Created a dynamic frontend interface that visualizes the agent's cognitive states (e.g., 'analyzing', 'coding', 'debugging'), providing transparency into its autonomous operations and enhancing user trust.
+Keeper and Clerk: Financial Analysis & Accounting Agent Platform
+Architected and implemented a multi-agent system in Python, featuring a central Assistance agent that delegates tasks to specialized Keeper (bookkeeping) and Clerk (reporting) agents.
+Invented a data indexing engine combining symbolic computation (NumPy/Pandas) for structured data processing, an OCR vision model for document parsing, with an LLM to generate human-readable summaries used as grounding memory and reference by the agent to understand the data at hand.
+Designed custom tools for AI agents, like a calculator and spreadsheet for Keeper, and document formatting and parsing utilities for Clerk, along with rendering pipelines to display visualizations and formatted documents seamlessly in a Next.js frontend.
+Developed a full-stack system by building a RESTful FastAPI backend for the agent and integrating it with a Next.js/React frontend via a proxy API route, enabling seamless user interaction in both Chat and Agent mode.
+Bouncebooks: Full-Stack CRM, Accounting, and ERP Software for Small Business (Built from the ground up with AI features like the Keeper and Clerk Agents)
+Built a responsive frontend and backend with robust authentication (NextAuth.js), reusable component architecture, RESTful API development for CRM, ERP, and Accounting modules, and seamless data handling via custom hooks, API clients, and MongoDB integration.
+Reimplemented the multi-agent system in a KC project and refactored it to suit the software.
+Engineered a unique data analysis engine that connects directly to the live MongoDB database. It generates "neuro-symbolic summaries" by first performing symbolic analysis on data (using Pandas to calculate stats, shapes, and schemas) and then feeding that structured summary into an LLM to produce a neuro-linguistic, human-readable overview of the user's financial data.
+Implemented a TTL cache to store data summaries, significantly improving response times for repeated queries.
+Built the corresponding React frontend components, including a dynamic UI to toggle between a simple "Chat" mode and a task-oriented "Agent" mode.
+Orchestrated the entire asynchronous communication flow from the frontend API call to the agent system and back.
+Data Science Competition: Predicting Probability of Default | Claxon Actuaries | June - July 2024
+Implemented and compared multiple predictive models, specifically Logistic Regression and a Neural Network, optimizing performance through hyperparameter tuning and cross-validation.
+Conducted comprehensive data cleaning, exploratory data analysis (EDA), and feature engineering to prepare a historical loan dataset.
+Logistic Regression Model: Achieved an AUC-ROC of 0.8097 (with standard scaling) and an F1 Score of 0.9361, demonstrating strong predictive capabilities. Explored the impact of different scaling techniques (Standard, Min-Max, No Scaling) on model performance and parameter optimization.
+Neural Network Model: Obtained an AUC-ROC of 0.7000 and a perfect Recall of 1.0000, indicating exceptional identification of positive cases, while maintaining an F1 Score of 0.9209.
+Built production-ready FastAPI endpoints with data drift detection for model deployment.
+
+TECHNICAL SKILLS
+Languages: Python (Expert), JavaScript/TypeScript (Proficient), C++ (Intermediate), SQL (Intermediate)
+ML/AI: PyTorch, TensorFlow, HuggingFace Transformers, Scikit-learn, OpenAI APIs, RAG Systems
+Web: React, Next.js, FastAPI, Flask, Node.js, WebSockets, REST APIs
+Databases: MongoDB, ChromaDB, PostgreSQL
+Tools: Git, Docker, GCP, Jupyter, VS Code
+
+LEADERSHIP & RECOGNITION
+Conference Speaker
+Google Developer Group (GDG) Harare DevFest 2024: "Building Human-AI Systems for Responsible AI"
+Deep learning indabax 2024: “ what are Ai agents “ 
+U.S. Embassy & Harare Institute of Technology: "AI's Transformative Applications for Social Good"
+Zimbabwe AI Week 2024: "Local Language LLMs"
+International Recognition
+4th Place Winner: International Science & Engineering Fair (ISEF) 2023
+National Representative: AI for Good Robotic Competition (mentored winning team)
+Community Impact: Taught 90+ students across mathematics, science, and programming
+
